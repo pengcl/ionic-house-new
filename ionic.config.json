@@ -1,0 +1,8 @@
+{
+  "name": "ionic-house",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5258d371"
+}
